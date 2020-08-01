@@ -1756,7 +1756,7 @@ $hkUuidPseudoRandomGenerator
 1.#QNAN0
 1.0
 1.1
-1.1.1
+1.1.4
 1.2.0.4
 1.2.11.f-NINTENDO-SDK-v1
 1/0
@@ -26322,7 +26322,7 @@ rbl
 rbt
 rcm
 rcm,rct,skk,hgh,
-rcm,rct,skk,hgh,rco,
+rcm,rct,skk,hgh,rco,doc,
 rcm/AIC:Normal/AIF:AI_NPC_Prologue_Rcm
 rco
 rco/   AIC:Normal/AIF:AI_NPC_Prologue_Rco
