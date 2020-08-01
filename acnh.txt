@@ -1772,8 +1772,8 @@ $hkUuidPseudoRandomGenerator
 1.#QNAN0
 1.0
 1.1
-1.2.0
 1.2.0.4
+1.2.1
 1.2.11.f-NINTENDO-SDK-v1
 1/0
 1/1
